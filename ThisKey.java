@@ -8,7 +8,7 @@ class Person{
         System.out.println("Hello " + this.name);
     }
 }
-public class Cons{
+public class ThisKey{
     public static void main(String [] args){
         Person p1= new Person("Alice");
         Person p2= new Person("Bob");
